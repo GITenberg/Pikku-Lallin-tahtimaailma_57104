@@ -1,16 +1,21 @@
 _repo: Pikku-Lallin-tahtimaailma_57104
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Salovaara, Hannes
     gutenberg_agent_id: '49193'
     url: http://www.gutenberg.org/2009/agents/49193
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sand, Mikael
     gutenberg_agent_id: '49096'
     url: http://www.gutenberg.org/2009/agents/49096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57104#Pikku-Lallin-tahtimaailma
 gutenberg_issued: '2018-05-06'
 gutenberg_type: Text
 identifiers:
